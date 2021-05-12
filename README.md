@@ -1,5 +1,7 @@
 👋 Hi, I’m Guillermo
 
+I'm a developer interested in back-end and videogame development
+
 - 🔭 I am currently working on a video game about gender violence and a website lenslab-uamc.net
 - ✏️ I am currently learning some backend tools
 - 🎵 I like to play the guitar in my free time
